@@ -1,0 +1,89 @@
+body, html {
+    margin: 0;
+    }
+  
+html {
+    height: 100%;
+    }
+  
+body {
+    height: 90%;
+    max-width: 800px;
+    margin: 0 auto;
+    }
+
+h1 {
+    text-align: center;
+}
+
+#transcript {
+    font-size: 14px;
+    font-weight: bold;
+    border: 1px solid #ddd;
+    padding: 15px;
+    text-align: left;
+    min-height: 150px;
+    }
+
+span {
+    font-size: 20px;
+}
+
+#manualInput {
+    width: 80%;
+    margin: 5px;
+    margin-left: 75px;
+    margin-right: 75px;
+    }
+
+.slider {
+    margin: 10px;
+}
+
+label {
+    float: left;
+    width: 3%;
+    text-align: center;
+    margin-left: 62px;
+    margin-right: 35px;
+    }
+      
+.rateValue, .pitchValue {
+    float: right;
+    width: 5%;
+    line-height: 1.5;
+    text-align: center;
+    }
+      
+#rate, #pitch {
+    float: right;
+    width: 72%;
+    margin-right: 60px;
+    }
+
+#voice {
+    width: 50%;
+    margin-left: 75px;
+}
+      
+#color {
+    margin-left: 15px;
+}
+
+#txtSize {
+    width: 20%;
+    margin-left: 15px;
+}
+
+.controls {
+    text-align: center;
+    margin-top: 10px;
+    }
+
+
+button {
+    width: 10%;
+    margin: 10px;
+    margin-bottom: 0px;
+    padding: 5px;
+}
