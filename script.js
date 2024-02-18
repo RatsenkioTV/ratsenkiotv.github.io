@@ -26,8 +26,8 @@ const spanish = document.getElementById("spanish");
 const english = document.getElementById("english");
 var grnScrn = false;
 
-const spaCen = ["p***"];
-const spaUncen = ["puta"];
+const spaCen = ["p***", "c*****"];
+const spaUncen = ["puta", "carajo"];
 
 const engCen = ["f******", "f*****", "f***", "s***"];
 const engUncen = ["fucking", "fucker", "fuck", "shit"];
